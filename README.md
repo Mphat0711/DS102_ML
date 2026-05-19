@@ -82,12 +82,7 @@ Cấu trúc chính:
 ```text
 Lab04/
 ├── assignments (1).ipynb
-├── decision_tree_numpy.py
-├── decision_tree_sklearn.py
-├── main_dt.py
-├── main_rdf.py
-├── random_forest_numpy.py
-└── random_forest_sklearn.py
+├── Lab 4.ipynb
 ```
 
 ---
@@ -97,13 +92,13 @@ Lab04/
 Cài đặt các thư viện cần thiết:
 
 ```bash
-pip install numpy pandas scikit-learn matplotlib ucimlrepo
+pip install numpy pandas scikit-learn matplotlib
 ```
 
 Nếu sử dụng `python3`:
 
 ```bash
-python3 -m pip install numpy pandas scikit-learn matplotlib ucimlrepo
+python3 -m pip install numpy pandas scikit-learn matplotlib
 ```
 
 ---
@@ -113,7 +108,7 @@ python3 -m pip install numpy pandas scikit-learn matplotlib ucimlrepo
 Clone repository:
 
 ```bash
-git clone https://github.com/GoldenDS-1105/DS102_ML.git
+git clone https://github.com/Mphat0711/DS102_ML.git
 ```
 
 Di chuyển vào thư mục repo:
