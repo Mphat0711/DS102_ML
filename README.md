@@ -85,6 +85,25 @@ Lab04/
 ├── assignments (1).ipynb
 ├── Lab 4.ipynb
 ```
+### Lab05
+
+Thư mục `Lab5` chứa bài thực hành liên quan đến:
+
+- K-means Clustering tự cài đặt bằng NumPy
+- Huấn luyện K-means bằng thuật toán EM
+- Gaussian Mixture Model (GMM) tự cài đặt bằng NumPy
+- Huấn luyện GMM bằng thuật toán EM
+- Ứng dụng GMM để tách nền ảnh
+
+Cấu trúc chính:
+
+```text
+Lab5/
+├── preliminaries.ipynb
+├── new-assignment.ipynb
+├── new-assignment_solution.ipynb
+└── cow.jpg
+```
 
 ---
 
