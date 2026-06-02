@@ -33,7 +33,7 @@ DS102_ML/
 | Lab02 | Bài thực hành tiếp theo về xử lý dữ liệu / mô hình cơ bản | Đã hoàn thành |
 | Lab03 | Support Vector Machine và bài toán phân loại ảnh X-ray | Đã hoàn thành |
 | Lab04 | Decision Tree và Random Forest trên Wine Quality Dataset | Đã hoàn thành |
-
+| Lab04 | K-Means & GMM | Đã hoàn thành |
 ---
 
 ## 4. Mô tả từng lab
